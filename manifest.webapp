@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "name": "Takle RPN Calc",
+    "short_name": "RPN Calc",
+    "description": "An RPN (Reverse Polish Notation) calculator.",
+    "type": "web",
+    "launch_path": "/src/index.html",
+    "icons": {
+        "56": "/icons/ic_takle-rpn-calc_56.png",
+        "112": "/icons/ic_takle-rpn-calc_56.png"
+    },
+    "developer": {
+        "name": "Daniel Lemke",
+        "url": "http://www.taklesoftware.com/"
+    },
+    "locales": {
+        "en-US": {
+            "name": "Takle RPN Calc",
+            "subtitle": "Reverse Polish Notation Calculator",
+            "description": "An RPN (Reverse Polish Notation) calculator."
+        }
+    },
+    "default_locale": "en-US",
+    "categories": [
+        "utilities"
+    ]
+}
